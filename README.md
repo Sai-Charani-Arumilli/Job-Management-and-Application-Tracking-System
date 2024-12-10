@@ -2,9 +2,11 @@
 # NetWork
 A Job Search and Application Management System.
 CS-5356-001 Advanced Database Management Systems.
-# Prepared by:
+# Team
 Sai Charani Arumilli
-
+Veena Posani
+Mugdha Ektare
+Shweta Koyande
 
 # Table of Contents:
 1. Project Overview. 
