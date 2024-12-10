@@ -3,9 +3,9 @@
 A Job Search and Application Management System.
 CS-5356-001 Advanced Database Management Systems.
 # Team
-Sai Charani Arumilli
-Veena Posani
-Mugdha Ektare
+Sai Charani Arumilli<br/>
+Veena Posani<br/>
+Mugdha Ektare<br/>
 Shweta Koyande
 
 # Table of Contents:
